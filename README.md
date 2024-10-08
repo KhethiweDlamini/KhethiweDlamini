@@ -1,11 +1,17 @@
 ## Hi there 👋
 
+I'm Khethiwe Dlamini and I'm passionate about all things tech and data 😊
+
+- 🔭 I’m currently working on my online portfolio as a novice web developer: [My Portfolio](https://k-dlamini-portfolio.netlify.app/)
+- 🌱 I’m currently learning Database Engineering on Google Cloud.
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 <!--
 **KhethiweDlamini/KhethiweDlamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
