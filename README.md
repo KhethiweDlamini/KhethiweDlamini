@@ -1,9 +1,11 @@
 ## Welcome 👋
 
 ChatGPT and Copilot are probably sick of my neediness, but it's all love 😊
-- 🔭 Check out my online portfolio, which I created and maintain as a novice front-end developer: [My Portfolio](https://khethiwedlamini.github.io/website/)
-- 🌱 I'm a Data Scientist and Full Stack Developer in the making.
-- 💞️ I'm looking to collaborate on projects using dynamical systems theory and extreme value theory, which have applications in health, neuroscience, human development, and risk mitigation.
+
+A little about me...
+- 🛠️ Data Scientist and Front-End Developer.
+- 🎮 Who also dabbles in game development. Check out my latest installment: [Triple S Game](https://github.com/KhethiweDlamini/triples_ice_breaker?tab=readme-ov-file)
+- 🌱 Passionate about biomedical data science, computing, and systems engineering in Sub-Saharan Africa.
 
 
 
