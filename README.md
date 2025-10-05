@@ -4,7 +4,7 @@ ChatGPT and Copilot are probably sick of my neediness, but it's all love 😊
 
 A little about me...
 - 🛠️ Data Scientist and Front-End Developer.
-- 🎮 I also dabble in game development. Check out my latest installment: [Triple S Game](https://github.com/KhethiweDlamini/triples_ice_breaker?tab=readme-ov-file)
+- 🎮 I also dabble in game development. Check out my latest installment: [Triple S Game](https://khethiwedlamini.github.io/triples_ice_breaker/)
 - 🌱 Passionate about biomedical data science, computing, and systems engineering in Sub-Saharan Africa.
 
 
