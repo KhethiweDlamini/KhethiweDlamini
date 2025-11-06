@@ -9,5 +9,6 @@ A little about me...
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khethiwedlamini&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khethiwedlamini&langs_count=10&exclude_repo=IBM_Data_Science)
+
 
